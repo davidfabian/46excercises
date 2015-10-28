@@ -10,8 +10,9 @@ def translate(sentence):
     result=""
     for i in sentence:
         if i in vowellist:
-            result.append(i)
+            result=result+(i)
         else:
-            result.append(i+"o"+i)
+            result=result+(i+"o"+i)
+    print(result)
 
-translate("asdasd")
+translate("this is fun")
