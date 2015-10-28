@@ -1,7 +1,9 @@
 __author__ = 'd'
 '''
-Define a function that computes the length of a given list or string. (It is true that Python has the len() function built in, but writing it yourself is nevertheless a good exercise.)
+Define a function that computes the length of a given list or string. (It is true that Python has the
+len() function built in, but writing it yourself is nevertheless a good exercise.)
 '''
+
 
 def length(a):
     d = 0
@@ -10,9 +12,9 @@ def length(a):
         d += 1
     print(d)
 '''
-length("asdf")
+length("asdsdfs34f")
 
 length("121212")
 
-length([1,2,3,5,68,54,"asd"])
+length([1, 2, 3, 5, 68, 54, "asd"])
 '''
