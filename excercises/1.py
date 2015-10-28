@@ -6,13 +6,13 @@ Define a function max() that takes two numbers as arguments and returns the larg
 '''
 
 
-def maxi(a,b):
-    if a>b:
+def maxi(a, b):
+    if a > b:
         print(a)
-    if b>a:
+    if b > a:
         print(b)
-    elif(a==b):
-        print(a,"=",b)
+    elif a == b:
+        print(a, "=", b)
 
 
-maxi(24,2)
+maxi(24, 2)
