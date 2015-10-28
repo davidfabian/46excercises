@@ -6,13 +6,14 @@ should return the string "tothohisos isos fofunon".
 '''
 vowellist = ["e", "y", "u", "i", "o", "a", " "]
 
+
 def translate(sentence):
-    result=""
+    result = ""
     for i in sentence:
         if i in vowellist:
-            result=result+(i)
+            result = result+i
         else:
-            result=result+(i+"o"+i)
+            result = result+(i+"o"+i)
     print(result)
 
 translate("this is fun")
