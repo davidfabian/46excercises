@@ -10,6 +10,6 @@ def reverse(a):
     result = ""
     for i in range((len(a)-1), -1, -1):
         result += (a[i])
-    print(result)
+    return result
 
-reverse("I am testing.")
+#reverse("I am testing.")
