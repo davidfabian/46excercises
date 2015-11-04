@@ -1,0 +1,368 @@
+================================================================================
+
+UBISOFT Splinter Cell Double Agent September 2006 README.TXT
+
+================================================================================
+
+Thank you for buying Splinter Cell Double Agent. This README file contains
+information not included in the game's manual.
+
+================================================================================
+
+Table of Contents
+
+================================================================================
+
+1. Minimum/Recommended Specifications
+	1.1. PC hardware requirements
+2. Configuration Utility
+	2.1. Game graphic options
+3. Update Launcher Utility
+4. Known Issues
+	4.1. Installing video drivers
+	4.1. Installing sound drivers
+	4.3. Installing DirectX
+	4.4. Windows Service Packs
+	4.5. PC Known problems
+5. Graphics, performance and troubleshooting FAQ
+6. Versus mode information
+7. Important Web Sites, Contact Information and Technical Support
+	7.1. Technical Support
+	7.2. Other Important websites
+
+================================================================================
+
+1. Minimum/Recommended specifications
+
+================================================================================
+
+1.1. PC hardware requirements
+
+PC hardware minimum requirements ========================
+
+Supported OS        : Windows XP (only)
+Processor           : 3000 MHz Pentium IV or AMD Athlon or better
+RAM                 : 1GB RAM
+Video Card          : 128MB DirectX9-compliant video card (see supported list*)
+Sound Card          : DirectX 9.0-compliant sound card
+DirectX             : DirectX 9.0c (included on DVD)
+DVD                 : 4x DVD or faster
+Hard Drive Space    : 8.0 GB free
+
+PC hardware recommended requirements ========================
+
+Supported OS        : Windows XP (only)
+Processor           : 3500 MHz Pentium IV/AMD or better
+RAM                 : 1GB RAM
+Video Card          : 256MB DirectX9-compliant video card (see supported list*)
+Sound Card          : DolbyDigital 5.1 and EAX 4.0 compatible
+DVD                 : 4x DVD or faster
+Hard Drive Space    : 10.0 GB free
+
+================================================================================
+
+2. Configuration Utility
+
+================================================================================
+
+Suppplied with the game is a tool called Configuration Utility. You can access it
+through the start menu -> programs -> Ubisoft -> Tom Clancy's Splinter Cell Double Agent
+-> Configuration Utility. You can run manually the Configuration
+Utility to detect your system configuration. If your system doesn't meet the
+required minimum specifications, the Configuration Utility will show a window with
+the list of system requirements. If an item in the Minimum Specifications list does
+not have a green check next to it, the game may not run properly or it may run
+too slowly.
+
+--------------------------------------------------------------------------------
+2.1. Game graphic options
+
+The Configuration Utility will try to determine the optimal graphic settings
+based on your system performance. It will try to balance performance with visual
+quality and set the appropriate graphic options settings. You can override these
+settings in the options menu of the game.
+
+================================================================================
+
+3. Update Launcher Utility
+
+================================================================================
+
+In the Start menu, there is a utility called Check For Updates used to detect if
+there are any new Patches to the game since you have purchased it. You will need
+to be administrator of your PC to run this utility.
+Note that two people need to be at the same version to be able to play online modes.
+Run this program regularly to be sure to be up to date with the
+latest enhancements to the game.
+
+================================================================================
+
+4. Known Issues
+
+================================================================================
+
+--------------------------------------------------------------------------------
+4.1. Installing video drivers
+
+If you experience any graphical problems, please install the recommended video
+drivers for your video card. Links to the most popular video cards manufacturers
+are available at the end of this document.
+
+4.2. Installing sound drivers
+
+If you experience any sound problems, please install the latest sound drivers
+available for your sound card. Links to the most popular sound cards
+manufacturers are available at the bottom of this document.
+
+--------------------------------------------------------------------------------
+4.3. Installing DirectX
+
+Splinter Cell Double Agent needs DirectX 9.0c to run properly. To get the latest
+version of DirectX, please visit:
+http://www.microsoft.com/windows/directx/downloads
+
+--------------------------------------------------------------------------------
+4.4. Windows Service Packs
+
+It is recommended to install the latest service packs for all PC operating
+systems.
+
+--------------------------------------------------------------------------------
+4.5. PC Known issues
+
+- Using ALT-TAB during the game's intro sequence (logos, ESRB, etc) is not
+supported
+
+- If the game crashes, the settings may revert to their default states by precaution
+to allow you to safely restart the game the next time.
+
+- It is strongly recommended that you close all running programs before installing this application.
+
+If you are experiencing slow game speed on AMD Dual-Core, the AMD Dual-core Optimizer Utility is
+available for download on AMD¡¯s website at the following links:
+
+http://www.amd.com/us-en/Processors/TechnicalResources/0,,30_182_871_9706,00.html
+
+
+http://www.amd.com/us-en/Processors/TechnicalResources/0,,30_182_871_14098,00.html
+
+
+http://www.amd.com/us-en/Processors/TechnicalResources/0,,30_182_871_13118,00.html
+
+
+If still you have problem, AMD recommend that you install the latest AMD Athlon? 64 X2 Dual Core
+Processor Driver available for Windows XP Edition and Windows Server 2003 Editions (64-bit and 32-bit versions)
+which can be found at:
+
+http://www.amd.com/us-en/Processors/TechnicalResources/0,,30_182_871_13118,00.html
+
+================================================================================
+
+5. Graphics, performance and troubleshooting FAQ
+
+================================================================================
+
+Q: Where are my profiles and saved games stored?
+
+A: To support Windows Limited User Access, the profiles and saved games are
+   stored outside of the installation directory. If you want to copy them to
+   another computer or back them up, you will find them in the
+   "Documents and Settings\All Users\Application Data\Ubisoft\Tom Clancy's Splinter
+   Cell Double Agent\profiles" directory. The Application Data folder is a hidden
+   folder by default. To unhide it, open a windows explorer window, select Tools ->
+   Folder Options. Select the view tab and in the advanced settings area, in the
+   Hidden files and folders node, select the "Show hidden files and folders".
+
+   To copy a profile, copy the whole folder of the correct name. If you have not
+   managed a profile in the Manage Profile menu in-game, there will be a default
+   profile.
+
+
+Q: "Hardware Shadow Mapping" in advanced graphics settings is grayed out and I
+   can't enable it.
+
+A: Hardware Shadow Mapping is supported only on GeForce cards if you
+   have the latest drivers installed. Hardware Shadow Mapping
+   increases only the rendering performance and has no direct impact on the
+   visual quality of the game.
+
+
+Q. My card supports Shader Model 3.0 but I can't enable HDR.
+
+A: Some Shader Model 3.0 cards don't support floating point blending thus HDR
+   rendering isn't possible and this option is grayed out.
+
+
+Q: When I rotate the camera, sounds that are behind the camera are completely
+   faded out.
+
+A: The game uses surround sound for modeling the 3D sound environment. If you
+   have surround sound speaker setting enabled in the "Sound and Audio Devices"
+   of Windows control panel while using stereo speaker setup (e.g. headphones),
+   only left and right audio channels are played. Change the speaker setup in
+   the control panel to match your actual speaker settings.
+
+
+Q: I can't change antialiasing because it's grayed out and says "Disabled".
+
+A: If you have HDR rendering enabled from "Shader Options" antialiasing will be
+   always disabled. This is a hardware limitation of current graphics cards and
+   there is nothing we can do to enable it.
+
+
+Q: The game runs slow on my PC. What can I do?
+
+A: There are several things which may cause the game to run slower than
+   expected:
+
+   1) Some background applications may have a negative impact on the performance
+      of the game, thus it's preferable to close most of them to leave more
+      resources for the purpose of the game. For instance virus protection
+      software may monitor memory and hard drive access thus slowing down your
+      PC. Also, make sure that your PC is free from viruses and spyware.
+
+   2) Install latest graphics card drivers from your graphics card vendors web
+      page. Graphics card vendors constantly optimize and fix their drivers
+      thus it's good to keep your graphics card drivers up to date to maximize
+      your gaming experience.
+
+   3) Install the latest DirectX (www.microsoft.com) and drivers for other
+      peripherals (motherboard, sound card, etc.)
+
+   4) Defragment your hard drive to optimize your hard drive performance.
+
+   5) If you have an AGP graphics card, make sure that AGP is enabled and is
+      running in maximum speed.
+
+   6) Try to find a good balance between quality and performance with graphics
+      settings (resolution, shadow resolution, texture filtering, etc.) to
+      match your needs. After each setting you can run the timedemo and see how
+      it impact to the performance of the game on your PC.
+
+   7) Use the timedemo to benchmark your PC and to compare it against other
+      people with a similar setup to see if your configuration is performing as
+      well as it should. Note that in order to have comparable results, you
+      need to have the same graphics settings enabled (same resolution, shadow
+      resolution, shader model, texture filtering, etc.)
+
+
+================================================================================
+
+6. Versus mode information
+
+================================================================================
+
+******** Versus : Network Compatibility ********
+
+Problems with Firewalls : If you have a firewall on your Internet connection,
+the following ports should be open (consult your firewall documentation):
+[UDP] 8888 et 8889
+[UDP] 3074
+[TCP] 3074
+
+The first two ports can be configured via the Default.ini file (present in the
+System subdirectory of the online directory).
+
+Some sound chipsets are known to create temporary freezes every second when playing ingame. To solve the problem, deactivate the hardware acceleration of your sound chipset. Go to:
+            Control Panel
+            Sounds & audio devices
+            Audio tab
+            Advanced Audio Properties
+            Select the "Performance" tab
+            Set "Hardware acceleration" to None
+
+================================================================================
+
+7. Important Web Sites, Contact Information and Technical Support
+
+================================================================================
+
+7.1. Technical Support
+
+Before contacting UBISOFT's Technical Support Department, please browse through
+our FAQ listings or search our support database at our website:
+http://support.ubi.com. Here you will find the most recently updated information
+since the game release.
+
+Also please make sure that your computer meets the minimum system requirements,
+as our support representatives will be unable to assist customers whose
+computers do not meet these criteria.
+
+Whenever you contact the Technical Support Department, please include the
+following information or have it available if you are calling:
+
+-Complete product title (including version number)
+-Exact error message reported (if applicable) and a brief description of the
+problem you're encountering
+-Processor speed and manufacturer
+-Amount of RAM
+-Operating system
+-Video card that you are using and amount of RAM it has
+-Maker and speed of your DVD-ROM drive
+-Type of sound card you are using
+
+Contact Us Over the Internet:
+
+This is the best way to contact us. Our website is open 24 hours a day, 7 days a
+week and it contains the most up to date Technical Support information available
+including patches that can be downloaded free of charge. We update the Support
+pages on a daily basis so please check here first for solutions to your problems
+http://support.ubi.com/.
+
+Contact Us by E-mail:
+
+For fastest response via e-mail, please visit our website at:
+
+http://support.ubi.com/
+
+From this site, you will be able to enter the UBISOFT Solution Center where you
+can browse through our listings of Frequently Asked Questions (FAQ),  search our
+database of known problems and solutions, or, for fastest e-mail response, you
+can send in a request for Personal Assistance from a Technical Support
+Representative. It may take up to 72 hours for us to respond to your e-mail
+depending upon the volume of messages we receive.
+
+Contact Us by Phone:
+
+You can also contact us by phone by calling (919) 460-9778.  Note that this
+number is for technical assistance only.  No hints or tips are given over the
+Technical Support line.  When calling our Technical Support line, please make
+sure you are in front of your computer and have all of the necessary information
+listed above at hand. Be advised that our Technical Support Representatives are
+available to help you Monday-Friday from 9 am- 9 pm (Eastern Standard Time).
+While we do not charge for technical support, normal long distance charges
+apply.  To avoid long distance charges, or to contact a support representative
+directly after these hours, please feel free to use one of the other support
+avenues listed above.  E-mail issues usually receive a response within 2
+business days.
+
+Contact Us by Standard Mail:
+
+If all else fails you can write to us at:
+
+Ubi Soft Technical Support 3200 Gateway Center Blvd Suite 100 Morrisville, NC
+27560 USA
+
+--------------------------------------------------------------------------------
+7.2. Other Important websites
+
+Splinter Cell double agent official web site: http://www.splintercell.com/
+
+Splinter Cell double agent's official forums:
+http://forums.ubi.com/eve/ubb.x?a=frm&s=400102&f=899100304
+
+Latest DirectX Runtime: http://www.microsoft.com/windows/directx/downloads
+
+Latest ATI Drivers: 	http://www.ati.com
+
+Latest NVIDIA Drivers: http://www.nvidia.com
+
+Latest Intel Drivers: 	http://www.intel.com
+
+Latest Creative Labs Drivers: 	http://www.creative.com
+
+================================================================================
+
+
+
+
